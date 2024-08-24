@@ -233,8 +233,8 @@ function s_validate() {
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn_adhikari"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.github.com"><i class="fab fa-github"></i></a>
+        <a href="https://t.me"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
